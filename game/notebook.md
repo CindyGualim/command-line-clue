@@ -1,16 +1,17 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Carpenter
-- [ ] The Banker
-- [ ] The Musician
+- [ ] The Clockmaker
+- [ ] The Florist
+- [X] The Baker
 
 ## Weapons
 - [ ] Steel Ruler
-- [ ] Old Key
-- [ ] Wooden Box
+- [ ] Leather Gloves
+- [ ] Crystal Vase
+
 
 ## Notes
-*Use this space to record your findings and deductions...*
-
-Location of the crime is still unknown - the room must have been empty when it happened...
+- Park: Found a Magnifying Glass.
+- School: Found objects - Brass Candlestick.
+- School: Found person - The Baker.
