@@ -1,20 +1,22 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Librarian
-- [ ] The Teacher
-- [ ] The Butler
+- [ ] The Clockmaker
+- [ ] The Florist
+- [X] The Baker
 
 ## Weapons
-- [ ] Knife
-- [ ] Revolver
-- [ ] Poison
+- [ ] Steel Ruler
+- [X] Leather Gloves
+- [ ] Crystal Vase
 
-## Clues
-### Clue 1
-- Location: Park
-- Found: Leather gloves.
+## Notes
+- Park: Found a Magnifying Glass.
+- School: Found objects - Brass Candlestick.
+- School: Found person - The Baker.
+- Shops\cafe: Found Investigation Conclusion - the crime occurred in an empty room.
 
-### Clue 2
-- Location: Playground
-- Found: "Go to the dock in the park" (from clue.txt).
+## Conclusion
+- **Suspect:** The Baker
+- **Weapon:** Leather Gloves
+- **Location:** Empty Room
